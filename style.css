@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color: black;
+    padding: 10px;
+    background-color: aquamarine;
+}
+/* Minor change to force Git to recognize the modification */
